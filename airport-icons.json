@@ -22,7 +22,7 @@
     {"name": "SNTP.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/SNTP.png"},
     {"name": "SSRDOG.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/SSRDOG.png"},
     {"name": "ShanHai.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/ShanHai.png"},
-    {"name": "ShunchangNetwork.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/ShunchangNetwork.png"},
+    {"name": "ShunchangNetwork.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/ShunChangNetwork.png"},
     {"name": "SpeedCat.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/SpeedCat.png"},
     {"name": "TAG.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/TAG.png"},
     {"name": "TotoroCloud.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/TotoroCloud.png"},
@@ -36,4 +36,5 @@
     {"name": "YvYvPro.png", "url": "https://raw.githubusercontent.com/jiudu218/airport-icons/main/YvYvPro.png"}
   ],
   "description": "airport-icons 是一个机场图标集合，包含各类机场／网络服务相关 PNG 图标。"
+
 }
